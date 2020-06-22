@@ -9,7 +9,7 @@ The competition rules is [here](http://dcase.community/challenge2020/task-unsupe
 + Self-supervised learning
 ![fig2](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/generate_anomaly_data.png "fig2")
 
-+ Result
++ Result(ROC-AUC)
 ![fig3](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/result.png "fig3")
 
 ## In preparation
