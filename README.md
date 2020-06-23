@@ -6,7 +6,7 @@ The competition rules is [here](http://dcase.community/challenge2020/task-unsupe
 + Architecture
 ![fig1](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/architecture.png "fig1")
 
-+ Self-supervised learning
++ Generate anomaly sound
 ![fig2](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/generate_anomaly_data.png "fig2")
 
 + Result(ROC-AUC)
@@ -14,5 +14,5 @@ The competition rules is [here](http://dcase.community/challenge2020/task-unsupe
 
 ## In preparation
 + Jupyter nootbook: coming soon...
-+ Pre-trained model: comming soon...
++ ~~Pre-trained model: comming soon...~~complete
 + Visualization by Grad-CAM: comming soon...
