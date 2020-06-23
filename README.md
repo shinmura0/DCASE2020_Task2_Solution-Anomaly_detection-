@@ -14,5 +14,5 @@ The competition rules is [here](http://dcase.community/challenge2020/task-unsupe
 
 ## In preparation
 + Jupyter nootbook: coming soon...
-+ ~~Pre-trained model: comming soon...~~complete
++ ~~Pre-trained model: comming soon...~~ complete
 + Visualization by Grad-CAM: comming soon...
