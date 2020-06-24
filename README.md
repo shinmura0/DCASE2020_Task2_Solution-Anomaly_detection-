@@ -1,6 +1,6 @@
 # DCASE2020 Task2(anomaly detection) Solution
-This is DCASE2020 Task2 Self-Supervised Learning solution ([paper](https://drive.google.com/file/d/159ZLwL1GFVmJ1_YxmVOathxXTmSbkenN/view?usp=sharing)).  
-The competition rules is [here](http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds). This competition is anomaly detection problem in machine sound. 
+This is DCASE2020 Task2 Self-Supervised Learning solution ([technical report](https://drive.google.com/file/d/159ZLwL1GFVmJ1_YxmVOathxXTmSbkenN/view?usp=sharing)).  
+The competition rules is [here](http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds). This competition is anomaly detection problem in **machine sound**. 
 
 ## Proposed method
 + Architecture
@@ -12,7 +12,12 @@ The competition rules is [here](http://dcase.community/challenge2020/task-unsupe
 + Result(ROC-AUC)
 ![fig3](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/result.png "fig3")
 
++ Visualization by [Faster-Grad-CAM]()
+![fig4](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/fig3.png "fig4")
+
+
 ## In preparation
-+ Jupyter nootbook: coming soon...
++ ~~Jupyter nootbook: coming soon...~~ complete
 + ~~Pre-trained model: comming soon...~~ complete
-+ Visualization by Grad-CAM: comming soon...
++ ~~Visualization by Grad-CAM: comming soon...~~ complete
++ arxiv paper: comming soon...
