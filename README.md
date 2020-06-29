@@ -1,5 +1,5 @@
 # DCASE2020 Task2(anomaly detection) Solution
-This is DCASE2020 Task2 Self-Supervised Learning solution ([technical report](https://drive.google.com/file/d/159ZLwL1GFVmJ1_YxmVOathxXTmSbkenN/view?usp=sharing)).  
+This is DCASE2020 Task2 Self-Supervised Learning solution ([technical report](https://drive.google.com/file/d/1m3wRq-xQrXK5CMDNPX2FjNA-yt1IxRiX/view?usp=sharing)).  
 The competition rules is [here](http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds). This competition is anomaly detection problem in **machine sound**. 
 
 ## Proposed method
