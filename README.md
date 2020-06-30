@@ -4,7 +4,7 @@ The competition rules is [here](http://dcase.community/challenge2020/task-unsupe
 
 ## Proposed method
 + Architecture
-![fig1](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/architecture.png "fig1")
+![fig1](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/fig1.png "fig1")
 
 + Generate anomaly sound
 ![fig2](https://github.com/shinmura0/DCASE2020_Task2_Solution-Anomaly_detection-/blob/master/images/generate_anomaly_data.png "fig2")
